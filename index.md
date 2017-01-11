@@ -13,8 +13,3 @@ Please contact me at hi(at)mark.design with an offer.
 
 ### Contact
 hi(at)mark.design
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
