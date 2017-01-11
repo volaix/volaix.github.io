@@ -9,7 +9,7 @@ If you would like to purchase any of the following domains
 - hirecoders.online
 - vrart.ist
 
-Please contact me at hi(at)mark.design with an offer.
+Please contact me at hi(at)markdt.design with an offer.
 
 ### Contact
-hi(at)mark.design
+hi(at)markdt.design
